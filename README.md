@@ -19,7 +19,7 @@ You can see what I am currently up to on [BLOG](https://edwin4chg.com).
 - LinkedIn: [linkedin.com/in/edwin4chg](https://www.linkedin.com/in/edwin4chg/)
 - Blog: [https://edwin4chg.com](https://edwin4chg.com)
 
-## 📕 Published Apps
+## 🌐 Published Apps
 
 - Hands-on: An app of Download Status and videos from different websites: 
   [https://edwin4chg.com/blog/descarga-all-videos-y-fotos/](https://play.google.com/store/apps/details?id=com.edwin4chg.allstatussaver)
